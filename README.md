@@ -117,8 +117,8 @@
 ---
 
 ## 🙏 支持 / Support
-如果你喜欢我的工作，欢迎给我一个 ⭐ 或请我喝杯咖啡！  
-If you like my work, consider giving me a star ⭐ or buying me a coffee!  
+如果你喜欢我的项目，欢迎给我一个 ⭐ 或请我喝杯伯牙绝弦（其实三拼霸霸奶茶也可以）😋！  
+If you like my project, consider giving me a star ⭐ or buying me a coffee😋!  
 
 <a href="https://www.buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00?logo=buy-me-a-coffee&logoColor=black"/></a>
 
